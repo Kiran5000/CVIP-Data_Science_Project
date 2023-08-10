@@ -1,3 +1,5 @@
+  ****CVIP_Data_Science_Project****
+
 **Mobile Price Classification**
 
 Mobile phone price classification involves creating a predictive model to classify cell phones into different price ranges based on their features. This task is a classic example of a machine learning problem called classification, where the goal is to assign labels (in this case, price ranges) to input data (cell phone features). motion).
