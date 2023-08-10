@@ -1,4 +1,4 @@
-#CVIP_Data_Science_Project#
+##CVIP_Data_Science_Project
 ## Image Caption Generator 
 
 ## Description
